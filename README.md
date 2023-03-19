@@ -1,6 +1,6 @@
 # Restaurant List ( AC 2-3 A1 )
 
-![image](public/images/restaurant_list_image.png)
+![image](https://raw.githubusercontent.com/muco0521/AC-restaurant-list/main/public/image/restaurant_list_image.png)
 
 ## About - 介紹
 這是使用 Node.js + Express 來架構一個簡單的餐廳搜索網站。
